@@ -1,0 +1,17 @@
+// Setup
+@import "setup/reset";
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+@import "setup/typography";
+
+// Basic
+@import "basics/helpers";
+@import "basics/base";
+@import "basics/layout";
+
+// Pages 
+@import "pages/home";
+
+// Components
+@import "cmps/app-filter";
